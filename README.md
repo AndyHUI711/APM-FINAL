@@ -3,6 +3,8 @@ YOLOv8+Tracker+Jetson
 # **APM CAPSTONE PROJECT - HKU IDT**
 
 Using YOLOv8, Bytetrack and Jetson Nano
+## Weights & Videos \
+https://drive.google.com/drive/folders/1p5wkkyq37Xhd1QE1Vap2AgmDmf8DGuI9?usp=share_link
 
 ## YOLOv8
 _reference to [https://github.com/ultralytics/ultralytics]()_ \
